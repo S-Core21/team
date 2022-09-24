@@ -190,6 +190,10 @@ footer hr {
         gap: 3.5rem;
         flex-direction: column;
     }
+    header,section{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
     .one{
         justify-content: left;
         flex-direction: column;
