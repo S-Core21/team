@@ -71,6 +71,10 @@ article{
     gap: 1rem;
     
 }
+a{
+    text-decoration: none;
+    color: #fff;
+}
 .socials{
     display: flex;
     gap: 1rem;
@@ -232,6 +236,7 @@ footer hr {
     footer{
         margin-inline: 0rem;
         text-align: center;
+        margin-top: 10rem;
     }
     .footer-div {
         flex-direction: column;
